@@ -3,9 +3,9 @@ A voice assistant that answers specific types of questions about cinematography.
 
 Types of questions that can be asked:
 - who is the director of the movie (Kto nakręcił|Reżyser filmu|Kto jest reżyserem|Ile zarobił|Ile zarobiła|Ile zarobiło|Ile zarobili|Ile zarobiły|Box office filmu)
-- how much did the movie make (Filmy podobne do|Rekomendacje do)
-- movies similar to the movie (Kiedy nakręcono|Kiedy powstał|Kiedy powstała|Kiedy powstało|Kiedy powstali|Kiedy powstały)
-- when was the movie made (Jaki jest opis|Fabuła filmu|O czym jest|O czym są)
+- how much did the movie make (Ile zarobił|Ile zarobiła|Ile zarobiło|Ile zarobili|Ile zarobiły|Box office filmu)
+- movies similar to the movie (Filmy podobne do|Rekomendacje do)
+- when was the movie made (Kiedy nakręcono|Kiedy powstał|Kiedy powstała|Kiedy powstało|Kiedy powstali|Kiedy powstały)
 - what is the description of the movie (Jaki jest opis|Fabuła filmu|O czym jest|O czym są)
 - how is the movie rated (Jaką ocenę ma|Jaką ocenę mają|Jak oceniany jest|Jak oceniana jest|Jak oceniane jest|Jak oceniani są|Jak oceniane są)
 - how long is this movie (Ile trwa|Ile trwają)
