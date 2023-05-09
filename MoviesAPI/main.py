@@ -6,7 +6,7 @@ from tmdbv3api import Movie
 from num2words import num2words
 
 tmdb = TMDb()
-tmdb.api_key =  # you need to have your own api key from TMDb 
+tmdb.api_key =  '39dbdab5e788eaf8492192773dbf42d7'
 tmdb.language = 'pl'
 tmdb.debug = True
 
